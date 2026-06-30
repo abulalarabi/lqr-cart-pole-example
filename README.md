@@ -485,8 +485,7 @@ $$
 Therefore:
 
 $$
-\mathbf{x}(0)
-=
+\mathbf{x}(0)=
 \begin{bmatrix}
 0\\
 0\\
